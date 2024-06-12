@@ -1,7 +1,7 @@
 # My Favorite Portfolio Website
 
-1. [Austin](https://auspham.dev/){:target="_blank"}
-2. [Cade](https://cade.codes/){:target="_blank"}
-3. [Casperiv](https://casperiv.dev/){:target="_blank"}
-4. [Che Hwa Tang](https://cheehwatang.com/){:target="_blank"}
-5. [Dhruva Bhat](https://dhruvabhat.netlify.app/){:target="_blank"}
+1. <a href="https://auspham.dev/">Austin</a>  
+2. <a href="https://cade.codes/">Cade</a>
+3. <a href="https://casperiv.dev/">Casperiv</a>
+4. <a href="https://cheehwatang.com/">Che Hwa Tang</a>
+5. <a href="https://dhruvabhat.netlify.app/">Dhruva Bhat</a>
